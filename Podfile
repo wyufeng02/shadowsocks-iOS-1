@@ -5,7 +5,7 @@
 
 pod 'libsodium', '~> 1.0.3'
 pod 'OpenSSL-Universal'
-
+pod 'ZXingObjC'
 target 'shadowsocks' do
 
 end
